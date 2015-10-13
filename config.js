@@ -14,8 +14,8 @@ System.config({
 
   map: {
     "aurelia-pal": "github:aurelia/pal@0.2.0",
-    "babel": "npm:babel-core@5.8.23",
-    "babel-runtime": "npm:babel-runtime@5.8.20",
+    "babel": "npm:babel-core@5.8.25",
+    "babel-runtime": "npm:babel-runtime@5.8.25",
     "core-js": "npm:core-js@1.2.1",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
@@ -29,7 +29,7 @@ System.config({
     "npm:assert@1.3.0": {
       "util": "npm:util@0.10.3"
     },
-    "npm:babel-runtime@5.8.20": {
+    "npm:babel-runtime@5.8.25": {
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
     "npm:core-js@1.2.1": {
